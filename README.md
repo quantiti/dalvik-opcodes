@@ -1,2 +1,2 @@
 # dalvik-opcodes
-[Dalvik opcodes reference](../../doc/index.mhtml)
+[Dalvik opcodes reference](https://quantiti.github.io/dalvik-opcodes/)
